@@ -1,0 +1,13 @@
+{
+  "domain": "https://www.pdflibr.com/",
+  "skipext": [
+    "pdf",
+    "xml"
+  ],
+  "parserobots": false,
+  "debug": true,
+  "output": "sitemap.xml",
+  "exclude": [
+    "action=edit"
+  ]
+}
